@@ -9,9 +9,7 @@
 
 - **dnSpy:** A powerful and open-source .NET debugger and assembly editor, commonly used for reverse engineering and analyzing .NET applications.
 
-- **Burp Suite:** A comprehensive set of tools for web application security testing, including features like a proxy, crawler, and various scanners[^1^]. It is widely utilized in the field of penetration testing to identify and address vulnerabilities in web applications.
-
-[^1^]: [Burp Suite Documentation](https://portswigger.net/burp)
+- **[Burp Suite](https://portswigger.net/burp):** A comprehensive set of tools for web application security testing, including features like a proxy, crawler, and various scanners. It is widely utilized in the field of penetration testing to identify and address vulnerabilities in web applications.
 
 #### Type Juggling
 
