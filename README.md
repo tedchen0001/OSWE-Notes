@@ -7,7 +7,7 @@
 
 #### Tools to be Familiar With:
 
-- **dnSpy:** A powerful and open-source .NET debugger and assembly editor, commonly used for reverse engineering and analyzing .NET applications.
+- **[dnSpy](https://github.com/dnSpy/dnSpy):** A powerful and open-source .NET debugger and assembly editor, commonly used for reverse engineering and analyzing .NET applications.
 
 - **[Burp Suite](https://portswigger.net/burp):** A comprehensive set of tools for web application security testing, including features like a proxy, crawler, and various scanners. It is widely utilized in the field of penetration testing to identify and address vulnerabilities in web applications.
 
