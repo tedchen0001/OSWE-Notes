@@ -7,3 +7,4 @@
 | baby breaking grad | https://app.hackthebox.com/challenges/186 | Node.js |
 | LoveTok | https://app.hackthebox.com/challenges/lovetok | PHP, eval, bypass |
 | Toxic | https://app.hackthebox.com/challenges/toxic | PHP, unserialize |
+| Neonify | https://app.hackthebox.com/challenges/neonify | Ruby, SSTI |
