@@ -8,3 +8,4 @@
 | LoveTok | https://app.hackthebox.com/challenges/lovetok | PHP, eval, bypass |
 | Toxic | https://app.hackthebox.com/challenges/toxic | PHP, unserialize |
 | Neonify | https://app.hackthebox.com/challenges/neonify | Ruby, SSTI |
+| EasterBunny | https://app.hackthebox.com/challenges/easterbunny | Node.js |
