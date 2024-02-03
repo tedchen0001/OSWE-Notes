@@ -9,3 +9,4 @@
 | Toxic | https://app.hackthebox.com/challenges/toxic | #PHP #unserialize |
 | Neonify | https://app.hackthebox.com/challenges/neonify | #Ruby #SSTI |
 | EasterBunny | https://app.hackthebox.com/challenges/easterbunny | #Node.js |
+| HTBank | https://app.hackthebox.com/challenges/htbank | #FLASK #API #HTTP Parameter Pollution |
